@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "Futuristic dark-themed educational web app featuring interactive quiz generator, MCQ practice, 3D flashcard decks, study notes, smart search, and a Pomodoro study timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
